@@ -46,7 +46,7 @@ The recommendation system is designed to help users discover new movies that are
 
 ## Author
 
-[Md. Niazul Islam Roky
+Md. Niazul Islam Roky
 
 ## License
 
